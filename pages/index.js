@@ -50,6 +50,9 @@ export default function Home() {
             </p>
           </a>
         </div>
+
+      <button className="btn btn-primary">Button</button>
+
       </main>
 
       <footer className={styles.footer}>
